@@ -29,12 +29,15 @@ img {
     height: 500px; /* Set the desired height */
     object-fit: cover; /* Maintain aspect ratio and cover container */
     margin-bottom: 20px;
+    border: solid 2px;
+    border-radius: 5px;
   }
   #small {
     height: 90px;
     width: 90px;
     margin: 0px;
     padding: 0px;
+    border: none;
   }
 
 
