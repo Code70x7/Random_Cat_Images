@@ -26,3 +26,9 @@ img {
     object-fit: cover; /* Maintain aspect ratio and cover container */
     margin-bottom: 20px;
   }
+  .small {
+    height: 50px;
+    width: 50px;
+    margin: 0px;
+    padding: 0px;
+  }
