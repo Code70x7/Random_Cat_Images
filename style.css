@@ -21,7 +21,7 @@ button {
    max-width: 100%; /* Set a maximum width */
       margin: 0 auto; /* Center the container horizontally */
 }
-h2 {
+#black {
     color: black;
 }
 img {
