@@ -8,7 +8,7 @@ h1 {
     text-transform: uppercase;
 }
 button {
-    padding:20px;
+    padding:5px;
     border-radius: 15px;
     background-color: rgb(166, 102, 184);
     margin-bottom: 50px;
@@ -20,6 +20,9 @@ button {
    text-align: center;
    max-width: 100%; /* Set a maximum width */
       margin: 0 auto; /* Center the container horizontally */
+}
+h2 {
+    color: black;
 }
 img {
     width: 500px; /* Set the desired width */
